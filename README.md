@@ -9,6 +9,7 @@ Frontend:
 React
 Chart.js
 Axios
+
 Backend:
 
 Node.js
@@ -16,7 +17,9 @@ Express
 SQLite
 JWT (jsonwebtoken)
 bcrypt.js
+
 Features
+
 Simulated real-time temperature and humidity readings.
 User authentication with JWT.
 Data visualization with Chart.js.
