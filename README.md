@@ -3,6 +3,7 @@ Overview
 This project is a full-stack IoT application that simulates, monitors, and visualizes real-time temperature and humidity data. It integrates frontend and backend technologies to provide a seamless user experience.
 
 Technologies Used
+
 Frontend:
 
 React
