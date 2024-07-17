@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iot-temp-humidity-monitor/static/css/main.e4092383.css",
+    "main.js": "/iot-temp-humidity-monitor/static/js/main.c0a77647.js",
+    "index.html": "/iot-temp-humidity-monitor/index.html",
+    "main.e4092383.css.map": "/iot-temp-humidity-monitor/static/css/main.e4092383.css.map",
+    "main.c0a77647.js.map": "/iot-temp-humidity-monitor/static/js/main.c0a77647.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4092383.css",
+    "static/js/main.c0a77647.js"
+  ]
+}
