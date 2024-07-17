@@ -17,7 +17,7 @@ const RegisterPage = () => {
     };
 
     return (
-        <div>
+        <div>   
             <h2>Register</h2>
             <form onSubmit={handleSubmit}>
                 <div>
