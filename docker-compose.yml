@@ -3,13 +3,8 @@ services:
   backend:
     build: ./backend
     ports:
-      - "3001:3001"
-    volumes:
-      - ./backend:/app
+      - "8080:8080"
   frontend:
     build: ./frontend
     ports:
-      - "3000:3000"
-    volumes:
-      - ./frontend:/app
-
+      - "80:80"
